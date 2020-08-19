@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://3dppe.net/</loc>
+  <lastmod>2020-04-11T00:20:33+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://3dppe.net/index.php</loc>
+  <lastmod>2020-04-11T00:20:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://3dppe.net/about.php</loc>
+  <lastmod>2020-04-11T00:20:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://3dppe.net/weeklyrecaps.php</loc>
+  <lastmod>2020-04-11T00:20:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://3dppe.net/map.php</loc>
+  <lastmod>2020-04-11T00:20:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://3dppe.net/sponsors.php</loc>
+  <lastmod>2020-04-11T00:20:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://3dppe.net/recap-2020-4-10.php</loc>
+  <lastmod>2020-04-11T00:20:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://3dppe.net/recap-2020-4-17.php</loc>
+  <lastmod>2020-04-11T00:20:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

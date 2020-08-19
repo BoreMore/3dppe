@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /printing
+
+Sitemap: https://3dppe.net/sitemap.xml
